@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LimitLine
+  - Bullet
+  - DeadPlayer
+  - BackObject
+  - Medical
+  - Train_Area
+  - Out_Area
+  - Quest_Area
+  - CCTV
+  - Electric
+  - Infection_Bullet
+  - EscapePlayer
+  - Outline
+  - Mission
+  - Wall
+  - Creep
+  - Canal1
+  - Canal2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - DeadPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
